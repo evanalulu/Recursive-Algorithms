@@ -1,0 +1,14 @@
+{
+    "terminal.integrated.defaultProfile.windows": "MSYS MinGW",
+    "terminal.integrated.profiles.windows": {
+        "MSYS MinGW": {
+            "path": "c:/msys64/msys2_shell.cmd",
+            "args": ["-defterm", "-here", "-no-start", "-mingw64"]
+        }
+    },
+    "files.associations": {
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "string_view": "cpp"
+    }
+}
